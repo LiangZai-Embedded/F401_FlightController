@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"headfiles.h": "c",
+			"string": "c",
+			"pid.h": "c",
+			"led.h": "c",
+			"qmc5883l.h": "c",
+			"filter.h": "c",
+			"imu_task.h": "c",
+			"kalman.h": "c",
+			"scope.h": "c",
+			"icm20602.h": "c",
+			"imu.h": "c",
+			"led_task.h": "c",
+			"upload_task.h": "c",
+			"init.h": "c",
+			"usart.h": "c",
+			"internalflash.h": "c",
+			"app_create_task.h": "c",
+			"event_groups.h": "c",
+			"limits": "c",
+			"memory": "c",
+			"fatfs_test.h": "c",
+			"adc.h": "c",
+			"bsp_sdio_sd.h": "c",
+			"cnt_timer.h": "c",
+			"key.h": "c",
+			"batt_task.h": "c",
+			"remote.h": "c"
+		}
+	}
+}

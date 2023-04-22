@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/inc",
+                "${workspaceFolder}/FreeRTOS/port/RVDS/ARM_CM4F",
+                "${workspaceFolder}/FreeRTOS/include",
+                "${workspaceFolder}/Libraries/CMSIS/Include",
+                "C:\\Keil_v5/ARM/ARMCC/include",
+                "${workspaceFolder}/User/inc",
+                "${workspaceFolder}/User/FATFS",
+                "${workspaceFolder}/Libraries/CMSIS/Device/ST/STM32F4xx/Include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
